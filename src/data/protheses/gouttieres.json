@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "title": "guttersAndOrthodonticsTitle1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse",
+        "advantagesText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "disadvantagesText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Matériaux":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Coût":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "image": "assets/img/nos_services/gouttieres/3.jpg",
+        "link": "/protheses-adjointes",
+        "items": [
+            {
+                "text": "ThermoSens – VERTEX"
+            },
+            {
+                "text": "Duraflex – MYERSON"
+            },
+            {
+                "text": "Dents – IVOCLAR"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "guttersAndOrthodonticsTitle2",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse",
+        "advantagesText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "disadvantagesText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Matériaux":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Coût":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "image": "assets/img/nos_services/gouttieres/5.jpg",
+        "link": "/protheses-adjointes",
+        "items": [
+            {
+                "text": "Rapid Simplified – VERTEX"
+            },
+            {
+                "text": "Castarvaria – VERTEX"
+            },
+            {  
+                "text": "Dents – IVOCLAR"
+            },
+            {
+                "text": "Titane – Girotan L – AMANN GIRRBACH"
+            },
+            {
+                "text": "Métal – Wironit LA – BEGO"
+            }
+        ]
+    }
+    
+]

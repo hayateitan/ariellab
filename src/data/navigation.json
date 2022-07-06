@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "linkText": "navigationHome",
+        "link": "/",
+        "child": false,   
+        "submenu": []  
+    },   
+    {
+        "id": 2,
+        "linkText": "navigationServices",
+        "child": true,
+        "submenu": [
+            {
+                "id": 2.1,
+                "link": "/protheses-conjointes",
+                "linkText": "jointProsthesesTxt"
+            },
+            {
+                "id": 2.2,
+                "link": "/protheses-adjointes",
+                "linkText": "assistantProsthesisTxt"
+            },
+            {
+                "id": 2.3,
+                "link": "/gouttiere",
+                "linkText": "guttersAndOrthodonticsTxt"
+            },
+            {
+                "id": 2.4,
+                "link": "/rayplicker",
+                "linkText": "Rayplicker"
+            },
+            {
+                "id": 2.5,
+                "link": "/pandascan",
+                "linkText": "PandScan"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "linkText": "navigationLab",
+        "link": "/laboratoire",
+        "child": false,
+        "submenu": []
+    },
+    {
+        "id": 4,
+        "linkText": "navigationContact",
+        "link": "/contact",   
+        "child": false,
+        "submenu": []
+    }
+ 
+]

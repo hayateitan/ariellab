@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "LYOR",
+        "image": "assets/img/doctors-grid/lior.jpg",
+        "specialist": "lyorJobTxt"
+    },
+    {
+        "id": 2,
+        "name": "ESTELLE",
+        "image": "assets/img/doctors-grid/Estelle.jpg",
+        "specialist": "estelleJobTxt"
+    },
+    {
+        "id": 3,
+        "name": "JESSICA",
+        "image": "assets/img/doctors-grid/Jessica.jpg",
+        "specialist": "jessicaJobTxt"
+    },
+    {
+        "id": 4,
+        "name": "RUDY",
+        "image": "assets/img/doctors-grid/Rudy.jpg",
+        "specialist": "rudyJobTxt"
+    },
+    {
+        "id": 5,
+        "name": "SHANON",
+        "image": "assets/img/doctors-grid/Shanon.jpg",
+        "specialist": "shanonJobTxt"
+    },
+    {
+        "id": 6,
+        "name": "YAELLE",
+        "image": "assets/img/doctors-grid/Yaelle.jpg",
+        "specialist": "yaelleJobTxt"
+    },
+    {
+        "id": 7,
+        "name": "DYLAN",
+        "image": "assets/img/doctors-grid/Dylan.jpeg",
+        "specialist": "dylanJonTxt"
+    },
+    {
+        "id": 8,
+        "name": "OREL",
+        "image": "assets/img/doctors-grid/Orel.jpg",
+        "specialist": "orelJobTxt"
+    },
+    {
+        "id":9,
+        "name": "YAEL",
+        "image": "assets/img/doctors-grid/Yael.jpg",
+        "specialist": "yaelJobTxt"
+    },
+    {
+        "id":10,
+        "name": "LÉA",
+        "image": "assets/img/doctors-grid/Lea.png",
+        "specialist": "leaJobTxt"
+    },
+    {
+        "id":11,
+        "name": "RONY",
+        "image": "assets/img/doctors-grid/Rony.jpg",
+        "specialist": "ronyJobTxt"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "image":"/assets/img/home-2/avis_client_1.png",
+        "name": "ESTHER BOUAZIZ",
+        "specialist":"DoctorTxt" ,
+        "comment": "estherCommentTxt"
+    },
+    {
+        "id": 2,
+        "image":"/assets/img/home-2/avis_client_2.png",
+        "name": "TSYONN CHEKROUN",
+        "specialist": "DoctorTxt",
+        "comment": "tsyonnCommentTxt"
+    }
+ 
+]

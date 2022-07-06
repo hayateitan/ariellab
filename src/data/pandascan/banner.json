@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "image":"assets/img/pandascan/banner1.jpg",
+        "subtitle":"",
+        "title":"AdigitalLaboratoryTxt"
+    },  
+    {
+        "id":2,
+        "image":"assets/img/pandascan/banner2.png",
+        "subtitle":"",
+        "title":"AdigitalLaboratoryTxt"   
+    },  
+    { 
+        "id":3,
+        "image":"assets/img/pandascan/banner3.jpg",
+        "subtitle":"",
+        "title":"AdigitalLaboratoryTxt"
+    }
+]

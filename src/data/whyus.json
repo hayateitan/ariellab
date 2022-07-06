@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "title":"collaborativeWorkTxt",
+        "icon":"flaticon-heartbeat",
+        "text":"collaborativeWorkDsc"
+    },
+    {
+        "id":2,
+        "title":"professionalismAndQualityTxt",
+        "icon":"flaticon-group",
+        "text":"professionalismAndQualityDsc"
+    }
+]

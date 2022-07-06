@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "title": "labAdvantageTitle1",
+        "icon": "flaticon-checklist",
+        "shorttext": "lavAdvantageDesc1"  
+    },
+    {   
+        "id": 2,
+        "title": "labAdvantageTitle2",
+        "icon": "flaticon-man",
+            "shorttext": "lavAdvantageDesc2"
+    },
+    {
+        "id": 3,
+        "title": "labAdvantageTitle3",
+        "icon": "flaticon-team",
+        "shorttext": "lavAdvantageDesc3"
+    },
+    {
+        "id": 4,
+        "title": "labAdvantageTitle4",
+        "icon": "flaticon-hospital-bed",
+        "shorttext": "lavAdvantageDesc4"
+    }
+    
+
+]

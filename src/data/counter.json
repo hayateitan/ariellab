@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "icon":"fal fa-handshake",    
+        "title":"internationalCollTxt",
+        "value":150
+    },
+    {
+        "id":2,
+        "icon":"fal fa-laptop-medical",   
+        "title":"ProjectsDoneText",
+        "value":250
+    },
+    {
+        "id":3,
+        "icon":"fal fa-tooth",
+        "title":"yearsOfExpTxt",
+        "value":11
+    }
+]

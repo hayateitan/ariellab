@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "image": "assets/img/home-2/new_home_footer1.jpg"  
+    },
+    {
+        "id":2,
+        "image": "assets/img/home-2/new_home_footer2.jpg"  
+    },  
+    {
+        "id":3,
+        "image": "assets/img/home-2/new_home_footer3.jpg"  
+    }, 
+    {
+        "id":4,
+        "image": "assets/img/home-2/new_home_footer4.jpg" 
+    }
+]

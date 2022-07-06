@@ -1,0 +1,206 @@
+[
+    {
+        "id": 1,
+        "title": "jointProsthesesTitle1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse",
+        "advantagesText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "disadvantagesText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Matériaux":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Coût":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "modal_footer_images": [
+            {
+                "image": "assets/img/nos_services/protheses_adjointes/footer_1.png"
+            },
+            {
+                "image": "assets/img/nos_services/protheses_adjointes/footer_2.png"
+            },
+            {
+                "image": "assets/img/nos_services/protheses_adjointes/footer_3.png"
+            }
+        ],
+        "image": "assets/img/nos_services/prothese_conjointes/1.jpg",
+        "items": [
+            {
+                "text": "Composite – SHOFU (Japon)"
+            },
+            {
+                "text": "Céramique hybride – Enamic – VITA – Excellence uniquement"
+            },
+            {
+                "text": "Vitro-céramique – IPS e.max – IVOCLAR – Excellence uniquement"
+            },
+            {
+                "text": "Métal – Wirobond SG – BEGO"
+            },
+            {
+                "text": "Zircone – DD Cube – DENTAL DIREKT – Excellence uniquement"
+            },
+            {
+                "text": "Zircone monolithique Ultra – IPS e.max ZirCAD Prime – IVOCLAR – Excellence uniquement"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "jointProsthesesTitle2",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse",
+        "advantagesText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "disadvantagesText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Matériaux":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Coût":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "modal_footer_images": [
+            {
+                "image": "assets/img/nos_services/protheses_adjointes/footer_1.png"
+            },
+            {
+                "image": "assets/img/nos_services/protheses_adjointes/footer_2.png"
+            },
+            {
+                "image": "assets/img/nos_services/protheses_adjointes/footer_3.png"
+            }
+        ],
+        "image": "assets/img/nos_services/prothese_conjointes/2.jpg",
+        "items": [
+            {
+                "text": "Céramique – Initial MC – GC"
+            },
+            {
+                "text": "Métal – CoCr Wirobond SG – BEGO"
+            }
+            
+        ]
+    },
+    {
+        "id": 3,
+        "title": "jointProsthesesTitle3",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse",
+        "advantagesText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "disadvantagesText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Matériaux":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Coût":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "modal_footer_images": [
+            {
+                "image": "assets/img/nos_services/protheses_adjointes/footer_1.png"
+            },
+            {
+                "image": "assets/img/nos_services/protheses_adjointes/footer_2.png"
+            },
+            {
+                "image": "assets/img/nos_services/protheses_adjointes/footer_3.png"
+            }
+        ],
+        "image": "assets/img/nos_services/prothese_conjointes/3.jpg",
+        "items": [
+            {
+                "text": "Vitro-céramique – IPS e.max – IVOCLAR"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "jointProsthesesTitle4",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse",
+        "advantagesText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "disadvantagesText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Matériaux":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Coût":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "modal_footer_images": [
+            {
+                "image": "assets/img/nos_services/protheses_adjointes/footer_1.png"
+            },
+            {
+                "image": "assets/img/nos_services/protheses_adjointes/footer_2.png"
+            },
+            {
+                "image": "assets/img/nos_services/protheses_adjointes/footer_3.png"
+            }
+        ],
+        "image": "assets/img/nos_services/prothese_conjointes/4.jpg",
+        "items": [
+            {
+                "text": "Zircone – DD Cube ONE – DENTAL DIREKT"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "jointProsthesesTitle5",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse",
+        "advantagesText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "disadvantagesText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Matériaux":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Coût":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "modal_footer_images": [
+            {
+                "image": "assets/img/nos_services/protheses_adjointes/footer_1.png"
+            },
+            {
+                "image": "assets/img/nos_services/protheses_adjointes/footer_2.png"
+            },
+            {
+                "image": "assets/img/nos_services/protheses_adjointes/footer_3.png"
+            }
+        ],
+        "image": "assets/img/nos_services/prothese_conjointes/5.jpg",
+        "items": [
+            {
+                "text": "Zircone – DD Cube ONE – DENTAL DIREKT"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "jointProsthesesTitle6",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse",
+        "advantagesText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "disadvantagesText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Matériaux":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Coût":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "modal_footer_images": [
+            {
+                "image": "assets/img/nos_services/protheses_adjointes/footer_1.png"
+            },
+            {
+                "image": "assets/img/nos_services/protheses_adjointes/footer_2.png"
+            },
+            {
+                "image": "assets/img/nos_services/protheses_adjointes/footer_3.png"
+            }
+        ],
+        "image": "assets/img/nos_services/prothese_conjointes/6.jpg",
+        "items": [
+            {
+                "text": "Zircone – DD Cube ONE – DENTAL DIREKT"
+            },
+            {
+                "text": "Céramique – ZR-FS – GC Initial"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "jointProsthesesTitle7",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse",
+        "advantagesText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "disadvantagesText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Matériaux":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Coût":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "modal_footer_images": [
+            {
+                "image": "assets/img/nos_services/protheses_adjointes/footer_1.png"
+            },
+            {
+                "image": "assets/img/nos_services/protheses_adjointes/footer_2.png"
+            },
+            {
+                "image": "assets/img/nos_services/protheses_adjointes/footer_3.png"
+            }
+        ],
+        "image": "assets/img/nos_services/prothese_conjointes/7.jpg",
+        "items": [
+            {
+                "text": "Vitro-céramique – IPS e.max – IVOCLAR"
+            }
+        ]
+    }
+]

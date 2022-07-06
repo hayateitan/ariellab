@@ -1,0 +1,30 @@
+{
+    "id": 1,
+    "title": "Ariel Aligner",
+    "image": "assets/img/rayplicker/software_rayplicker_item_1.jpg",
+    "html_text2":"<p>Metal braces Lace straps can be very restrictives. It’s why we have decided to create in our laboratory : “Ariel Aligner ©”.</p><p>  Ariel Aligner ©</p><p> is an aligner that will allow you to straighten your teeth but in a discreet way.</p><p> Our aligners are removables and almost invisibles.</p><p> Clear aligners,</p><p>  also known as</p><p>clear -aligner treatment,</p><p> are orthodontic devices that are a transparent, plastic form of dental braces used to adjust teeth.</p><p> We enable you to design and produce clear aligners . It’s the clear choice for taking your practice to the next level.</p>",
+    "html_text1":"<p>Metal braces Lace straps can be very restrictives. It’s why we have decided to create in our laboratory : “Ariel Aligner ©”.</p><p style={{ display: inline, fontWeight: bold }}>  Ariel Aligner ©</p><p style={{ display: inline }}> is an aligner that will allow you to straighten your teeth but in a discreet way.</p><p> Our aligners are removables and almost invisibles.</p><p style={{ display: inline, fontWeight: bold }}> Clear aligners,</p><p style={{ display: inline }}>  also known as</p><p style={{ display: inline, fontWeight: bold }}>clear -aligner treatment,</p><p> are orthodontic devices that are a transparent, plastic form of dental braces used to adjust teeth.</p><p style={{}}> We enable you to design and produce clear aligners . It’s the clear choice for taking your practice to the next level.</p>",
+    "getArielAlignerText": "Treatment begins with taking x-ray, photographs, a bite registration, and silicon impressions of the person's teeth and gums. The dentist/orthodontist completes a written evaluation that includes diagnosis and treatment plan. Dental impressions are scanned in order to create a digital 3D representation of the teeth. Technicians move the teeth to the desired location with the program Treat, which creates the stages between the current and desired teeth positions. Anywhere from six to forty-eight aligners may be needed. Each aligner moves teeth .25 to .33 millimeters. A computer graphic representation of the projected teeth movements, created in the software program ClinCheck, is provided to the doctor and patient for approval or modification before aligners are manufactured.The aligners are modeled using CAD-CAM (computer-aided-design and computer-aided manufacturing) software and manufactured using a rapid phototyping technique called stereolithography. The molds for the aligners are built in layers using a photo-sensitive liquid resin that cures into a hard plastic when exposed to a laser. The aligners are made from an elastic thermoplastic material that applies pressure to the teeth to move into the aligner's position. Patients that need a tooth rotated or pulled down may have a small, tooth-coloredcomposite attachment bonded onto certain teeth.More attachments can make the aligners less aesthetically pleasing.Reproximation, (also called interproximal reduction or IPR and colloquially, filing or drilling), is sometimes used at the contacts between teeth to allow for a better fit",
+    "drNeedSend": [ { 
+
+        "image": "assets/img/ariel-aligner/what_dr_need_to_send.png",
+        "description": "8 photos (see example)"
+
+    },
+    {
+        "image":  "assets/img/ariel-aligner/2X_rays_1.png",
+        "description": "2 X-Rays (see example)"
+
+    },
+    {
+        "image":  "assets/img/ariel-aligner/2X_rays_2.png",
+        "description": ""
+
+    },
+    {
+        "image": "assets/img/ariel-aligner/clear.png",
+        "description": "Clear and Good Silicon Upper & Lower Jaw Print, Bite registration (or STL scan file)"
+
+    }
+    ]
+}   

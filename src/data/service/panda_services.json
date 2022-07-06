@@ -1,0 +1,22 @@
+[
+  
+    {
+        "id": 1,    
+        "title": "pandaServiceTitle1",
+        "icon": "flaticon-doctor-1",
+        "shorttext": "pandaServiceDesc1"
+    },
+    {
+        "id": 3,
+        "title": "pandaServiceTitle2",   
+        "icon": "flaticon-heartbeat",
+        "shorttext": "pandaServiceDesc2"
+    },
+    {
+        "id": 3,
+        "title": "pandaServiceTitle3",
+        "icon": "flaticon-stethoscope",
+        "shorttext": "pandaServiceDesc3"
+    }
+
+]

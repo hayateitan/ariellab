@@ -1,0 +1,22 @@
+[
+  
+    {
+        "id": 1,    
+        "title": "labServiceTitle1",
+        "icon": "flaticon-calendar",
+        "shorttext": "labServiceDesc1"
+    },
+    {
+        "id": 2,
+        "title": "labServiceTitle2",
+        "icon": "flaticon-doctor-1",
+        "shorttext": "labServiceDesc2"
+    },
+    {
+        "id": 3,
+        "title": "labServiceTitle3",
+        "icon": "flaticon-health-check",
+        "shorttext": "labServiceDesc3"
+    }
+
+]

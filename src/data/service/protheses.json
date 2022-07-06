@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "jointProsthesesTxt",
+        "link": "/protheses-conjointes",
+        "iconLink": "assets/img/home-2/prothese conjointe.svg"
+    },  
+    {
+        "id": 2,
+        "title": "assistantProsthesisTxt",
+        "link": "/protheses-adjointes",
+        "iconLink": "assets/img/home-2/prothese adjointe.svg"
+
+    },
+    {
+        "id": 3,
+        "title": "guttersAndOrthodonticsTxt",
+        "icon": "flaticon-heartbeat",
+        "link": "/gouttiere",
+        "iconLink": "assets/img/home-2/gouttiere.svg"
+
+    },
+    {
+        "id": 4,
+        "title": "Rayplicker",
+        "link": "/rayplicker",
+        "iconLink": "assets/img/home-2/rayplicker.svg"
+    },
+    {
+        "id": 5,
+        "title": "PandaSan",
+        "link": "/pandascan",
+        "iconLink": "assets/img/home-2/pandascan.svg"
+
+    }
+    
+
+]

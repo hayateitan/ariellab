@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "title": "Produits",
+        "icon": "flaticon-stethoscope",
+        "image": "assets/img/home-1/300x240.jpg",
+        "category": [
+            1,
+            2
+        ],
+        "gallery": [
+            "assets/img/service-details/240x240.jpg",
+            "assets/img/service-details/240x240-0.jpg",
+            "assets/img/service-details/240x240-1.jpg"
+        ],
+        "servicedate": "July 30, 2021",
+        "shorttext": "Constamment à la recherche des dernières innovations et techniques de fabrication, ARIEL LABORATOIRE possède une installation de pointe : techniques 3D, robotisation assistée par ordinateur, les derniers programmes en date... afin de proposer des produits de haute qualité et de précision.",
+        "htmltext": "<p> Constamment à la recherche des dernières innovations et techniques de fabrication, ARIEL LABORATOIRE possède une installation de pointe : techniques 3D, robotisation assistée par ordinateur, les derniers programmes en date... afin de proposer des produits de haute qualité et de précision.</p>"
+    },
+    {
+        "id": 2,
+        "title": "Smile Design",
+        "icon": "flaticon-doctor-1",
+        "image": "assets/img/home-1/300x240-0.jpg",
+        "category": [
+            3,
+            4
+        ],
+        "gallery": [
+            "assets/img/service-details/240x240.jpg",
+            "assets/img/service-details/240x240-0.jpg",
+            "assets/img/service-details/240x240-1.jpg"
+        ],
+        "servicedate": "July 30, 2021",
+        "shorttext": "Les couleurs et le maquillage des dents sont les résultats qui compteront le plus pour vos patients. C’est pourquoi ARIEL LABORATOIRE propose à vos patients de venir au laboratoire pour une prise de teinte ou un maquillage en bouche.",
+        "htmltext": "<p>Les couleurs et le maquillage des dents sont les résultats qui compteront le plus pour vos patients. C’est pourquoi ARIEL LABORATOIRE propose à vos patients de venir au laboratoire pour une prise de teinte ou un maquillage en bouche.</p>"
+    },
+    {
+        "id": 3,
+        "title": "Delais",
+        "icon": "flaticon-heartbeat",
+        "image": "assets/img/home-1/300x240-1.jpg",
+        "category": [
+            1,
+            5
+        ],
+        "gallery": [
+            "assets/img/service-details/240x240.jpg",
+            "assets/img/service-details/240x240-0.jpg",
+            "assets/img/service-details/240x240-1.jpg"
+        ],
+        "servicedate": "July 30, 2021",
+        "shorttext": "ARIEL LABORATOIRE propose un délai de fabrication de 8 à 10 jours (3 jours pour le glaze, point de contact, occlusion...), à partir de la prise en charge de travail. Pour tout travail plus urgent (moins de 4 jours), comptez une majoration de 25% du tarif prévu.",
+        "htmltext": "<p>ARIEL LABORATOIRE propose un délai de fabrication de 8 à 10 jours (3 jours pour le glaze, point de contact, occlusion...), à partir de la prise en charge de travail. Pour tout travail plus urgent (moins de 4 jours), comptez une majoration de 25% du tarif prévu.</p>"
+    },
+    {
+        "id": 4,
+        "title": "Livraison",
+        "icon": "flaticon-medical-record",
+        "image": "assets/img/home-1/300x240-2.jpg",
+        "category": [
+            2,
+            3
+        ],
+        "gallery": [
+            "assets/img/service-details/240x240.jpg",
+            "assets/img/service-details/240x240-0.jpg",
+            "assets/img/service-details/240x240-1.jpg"
+        ],
+        "servicedate": "July 30, 2021",
+        "shorttext": "ARIEL LABORATOIRE offre à tous ses clients un service de livraison sans frais. Leurs livreurs ont tous été sélectionnés pour leur rapidité, leur sérieux et leur confiance.",
+        "htmltext": "<p> ARIEL LABORATOIRE offre à tous ses clients un service de livraison sans frais. Leurs livreurs ont tous été sélectionnés pour leur rapidité, leur sérieux et leur confiance.</p>"
+    }
+    
+]

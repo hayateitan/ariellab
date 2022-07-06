@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "pandaAdvantageTitle1",
+        "icon": "flaticon-teamwork",
+        "shorttext": "pandaAdvantageDesc1"  
+    },
+    {   
+        "id": 2,
+        "title": "pandaAdvantageTitle2",
+        "icon": "flaticon-medical-record",
+        "shorttext": "pandaAdvantageDesc2"
+    },
+    {  
+        "id": 3,
+        "title": "pandaAdvantageTitle3",
+        "icon": "flaticon-stethoscope",
+        "shorttext": "pandaAdvantageDesc3"
+    },
+    {
+        "id": 4,
+        "title": "pandaAdvantageTitle4",
+        "icon": "flaticon-doctor",
+        "shorttext": "pandaAdvantageDesc4"
+    }
+
+]

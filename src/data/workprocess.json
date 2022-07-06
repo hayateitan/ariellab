@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "icon":"flaticon-pharmacy",
+        "title":"Prise d’empreinte numerique",
+        "text":"Envoi du fichier STL du dentiste au laboratoire."
+    },
+    {
+        "id":2,
+        "icon":"flaticon-event",
+        "title":"Gestion et Impression",
+        "text":"Gestion de votre fichier au laboratoire modélisation et impression 3D du modèle."
+    },
+    {
+        "id":3,
+        "icon":"flaticon-doctor",
+        "title":"Finalisation et Envoi",
+        "text":"Finalisation de la prothèse imprimée par nos artisans envoie par coursier jusqu’à votre porte."
+    }
+]
