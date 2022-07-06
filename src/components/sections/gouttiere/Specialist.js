@@ -32,7 +32,7 @@ class Specialist extends Component {
                 </div>
                 <div className="col-lg-4 offset-lg-1">
                     <div className="sigma_about style-9 w-100 h-100">
-                        <div className="sigma_about-image-1 has-no-content" style={{top:1,margin:"auto",marginBottom:-81,left:44}}>
+                        <div className="sigma_about-image-1 has-no-content" style={{top:15,margin:"auto",marginBottom:-81,left:44}}>
                             <img className='pandascan-img-small' src={process.env.PUBLIC_URL + "assets/img/nos_services/gouttieres/specialist.jpg"} alt="img" />
                         </div>
                     </div>
