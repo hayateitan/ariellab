@@ -8,7 +8,7 @@ class GoldenRules extends Component {
         const { t } = this.props;
         return (
             <>         
-               <div className="section-title centered">
+               <div className="section-title centered" style={{marginTop:44}}>
                 {/* <span className="subtitle ">Meet Our Team</span> */}
                 <h3 className="title-delivery-time" style={{ fontFamily: "Open sans , sans-serif" }}>{t('gouttiereGoledenRulesTitle')}</h3>
             </div>
@@ -16,7 +16,7 @@ class GoldenRules extends Component {
 
                     <div className="col-lg-4 offset-lg-1">
                         <div className="sigma_about style-9 w-100 h-100">
-                            <div className="sigma_about-image-1 has-no-content" style={{ marginTop: "0px" }}>
+                            <div className="sigma_about-image-1 has-no-content" style={{ margin:"auto",left:55 }}>
                                 <img className='pandascan-img-small' src={process.env.PUBLIC_URL + "assets/img/nos_services/gouttieres/goldenRules.jpg"} alt="img" />
                             </div>
                         </div>
@@ -25,7 +25,7 @@ class GoldenRules extends Component {
                         <div className="sigma_about style-21">
                           
                             <div className="sigma_about-content" >
-                            <ol>
+                            <ol style={{marginRight:50,marginLeft:17}}>
                               <li style={{borderBottom:"1px solid #ED1566", fontSize:"16px", marginBottom:"10px", paddingBottom:"10px"}}>
                               {t('gouttiereGoledenRulesDesc1')}
                               </li>

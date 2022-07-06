@@ -11773,10 +11773,10 @@ hr {
 .sigma_banner-slider .slick-dots,
 .sigma_banner-slider-2 .slick-dots {
   position: absolute;
-  bottom: -11px;
+  bottom: -65px;
   left: 50%;
   /* transform: translateX(-171%); */
-  transform: rotate(-78deg);
+  transform: rotate(-86deg);
 }
 
 .sigma_banner-slider .slick-dots li button,

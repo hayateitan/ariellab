@@ -18,7 +18,7 @@ class VideoAndFollow extends Component {
                 <div className="row">
                     <div className="col-lg-8">
                         <div className="sigma_post-details-inner mb-md-80">
-                            <div className="entry-content">
+                            <div className="entry-content" style={{marginTop:50}}>
                             <h2 className="entry-title" style={{ fontFamily: "Open sans , sans-serif" }}>PandaScan</h2>
                                         <p style={{ fontFamily: "Open sans , sans-serif" }}>{t('pandascanTitleVideotxt')}
                                         </p>

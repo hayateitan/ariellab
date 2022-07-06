@@ -9,7 +9,7 @@ class Services extends Component {
         return (       
             <div className="row" >    
                      <div className="section-title centered">
-                        <h3 className="title mb-0" style={{fontFamily:"Open sans , sans-serif"}}>{t('AdigitalLaboratoryTxt')}</h3>   
+                        <h3 className="title mb-0" style={{fontFamily:"Open sans , sans-serif", top:38}}>{t('AdigitalLaboratoryTxt')}</h3>   
                     </div>   
              {serviceblock.map((item, i) => (
                 <div className={"col-lg-12 order-2 order-lg-1"} >

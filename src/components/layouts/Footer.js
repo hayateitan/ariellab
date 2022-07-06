@@ -66,9 +66,9 @@ class Footer extends Component {
                 <div className="sigma_footer-middle">
                     <div className="container">
                         <div className="row">
-                            <div className="col-lg-4">
+                            <div className="col-lg-4" style={{marginLeft:57}}>
                                 <div className="sigma_footer-widget">
-                                    <div className="sigma_footer-logo mb-4">
+                                    <div className="sigma_footer-logo mb-4" style={{marginLeft:20}}>
                                         <img src={"assets/img/logo_ariel.jpg"} width="190px" alt="logo" />
                                     </div>
                                     <div className="row">
